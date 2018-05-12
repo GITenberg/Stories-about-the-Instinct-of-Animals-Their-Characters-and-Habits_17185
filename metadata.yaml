@@ -1,0 +1,35 @@
+_repo: Stories-about-the-Instinct-of-Animals-Their-Characters-and-Habits_17185
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Landseer, Thomas
+    birthdate: 1795
+    deathdate: 1880
+    gutenberg_agent_id: '7204'
+    url: http://www.gutenberg.org/2009/agents/7204
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bingley, Thomas
+    gutenberg_agent_id: '7203'
+    url: http://www.gutenberg.org/2009/agents/7203
+description: ''
+gutenberg_bookshelf: Children's Instructional Books
+gutenberg_issued: '2005-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17185'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Animals -- Anecdotes -- Juvenile literature'
+- !lcsh 'Instinct -- Juvenile literature'
+- !lcsh 'Conduct of life -- Juvenile literature'
+- !lcsh 'Animal behavior -- Juvenile literature'
+title: Stories about the Instinct of Animals, Their Characters, and Habits
+url: http://www.gutenberg.org/ebooks/17185
